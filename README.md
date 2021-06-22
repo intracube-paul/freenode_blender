@@ -14,6 +14,16 @@ Libera network settings:
 
 Libera has been set up by a number of ex-Freenode staff and is now the official place for a number of projects including Ubuntu, Gentoo, Wikimedia, LibreOffice, Ffmpeg and others.
 
+Related links:<br>
+https://lists.debian.org/debian-devel-announce/2021/06/msg00002.html<br>
+https://lists.ubuntu.com/archives/ubuntu-irc/2021-May/001927.html<br>
+https://www.gentoo.org/news/2021/05/23/Moving-to-Libera.html<br>
+https://communityblog.fedoraproject.org/irc-announcement/<br>
+https://wiki.freebsd.org/IRC/Official-FreeBSD-IRC-channels-now-on-Libera-Chat<br>
+https://blog.documentfoundation.org/blog/2021/05/31/libreoffice-irc-channels-moving-to-libera-chat/<br>
+https://meta.wikimedia.org/wiki/IRC/Migrating_to_Libera_Chat<br>
+
+
 ### Background
 
 On the 25th May 2021 at 2:55am UTC, the **#blender** channel on Freenode was effectively closed. All of the channel operators had their access controls revoked, the room was locked and the topic changed. Users were then redirected to a different unmoderated channel - **##blender**. The channel log of the event (timestamps BST):
