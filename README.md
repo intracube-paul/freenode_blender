@@ -10,6 +10,7 @@ Libera network settings:
 * Server: irc.libera.chat:6697 (SSL)
 * Channels: #blender, #blenderchat
 * Web access: https://web.libera.chat/?nick=user&channel=#blender
+* Registration not usually required (but recommended).
 
 Libera has been set up by a number of ex-Freenode staff and is now the official place for a number of projects including Ubuntu, Gentoo, Wikimedia, LibreOffice, Ffmpeg and others.
 
